@@ -30,8 +30,8 @@ jobs:
         with:
           server: ${{ secrets.FTP_HOSTNAME }}
           username: ${{ secrets.FTP_USERNAME }}
-          password:  ${{ secrets.FTP_PASSWORD }}
-          port: 990
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
           protocol: ftps
           
           log-level: verbose
