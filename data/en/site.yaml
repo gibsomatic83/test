@@ -1,0 +1,13 @@
+copyright: © 2021 Copyright.
+
+description: Portfolio and personal blog of Jeremy Boyle
+
+customMenus:
+- name: Github
+  url: https://github.com/jeremyboyle
+
+openGraph:
+  title: Jeremy Boyle
+  type: website
+  description: Portfolio and personal blog of Jeremy Boyle
+  url: https://jeremyboyle.dev

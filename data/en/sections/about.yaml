@@ -1,0 +1,36 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Platform Engineer
+company:
+  name: US Army
+
+summary: 'I am a platform engineer for the Army Software Factory, with a strong focus in cloud computing. Orginally located in Los Angles, CA. I love to get new experiences and always learn from my surroundings. Constantly looking forward to any opportunities and challenges. Intrests consit of Web Development, Graphic Desgin, and Cloud Computing.'
+
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/jeremy-boyle"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/jeremy-boyle/"
+
+badges:
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/badges/348f7d7b-d9e2-4bd6-bf62-b1b6f6d65147"
+  badge: "/images/sections/skills/cka.png"
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: green
+- type: soft-skill-indicator
+  name: Fast Learner
+  percentage: 95
+  color: sky
