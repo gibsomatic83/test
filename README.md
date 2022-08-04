@@ -1,2 +1,0 @@
-# tylergibson.dev
-Website source
