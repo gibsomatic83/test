@@ -6,25 +6,18 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Platform Engineer
+designation: Undergraduate Student
 company:
-  name: US Army
+  name: Indiana University
 
-summary: 'I am a platform engineer for the Army Software Factory, with a strong focus in cloud computing. Orginally located in Los Angles, CA. I love to get new experiences and always learn from my surroundings. Constantly looking forward to any opportunities and challenges. Intrests consit of Web Development, Graphic Desgin, and Cloud Computing.'
+summary: 'I am a undergraduate student pursuing my bachelors degree in Computer Science with a specialization in Cyber Security. I am getting minors in Web-Desgin, Human-Centered Computing, and Informatics. I love the have new ecperiences and am always willing to learn more about anything that interests me. Currently I am looking for full-time employment after graduation in May of 2023.'
 
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/jeremy-boyle"
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/jeremy-boyle/"
+  url: "https://www.linkedin.com/in/tyler-gibson-b80060245/"
 
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/badges/348f7d7b-d9e2-4bd6-bf62-b1b6f6d65147"
-  badge: "/images/sections/skills/cka.png"
 
 - type: soft-skill-indicator
   name: Hard Working

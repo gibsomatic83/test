@@ -1,13 +1,13 @@
-name: "Jeremy"
-nickname: "Jeremy"
+name: "Tyler"
+nickname: "Tyler"
 
 greeting: "My name is"
-pre-type: "Austin"
+pre-type: "Chicago"
 contactInfo:
-  email: "contact@jeremyboyle.dev"
+  email: "thgibson@iu.edu"
 
 summary:
-- Platform Engineer
+- Security Engineer
 - Programmer
-- GFX Designer
+- Network Administrator
 - Gamer

@@ -9,27 +9,51 @@ experiences:
     name: Army Software Factory - US Army
     location: Futures Command, Austin, TX
   positions:
-  - designation: Platform Engineer
-    start: November 2020
+  - designation: Army Cadet Intern
+    start: June 2022
+    end: August 2022
     responsibilities:
-    - Automate the installation, configuration and maintenance with Kubernetes
-    - Working with the latest cutting edge development tools and procedures
-    - Be proficient in various platforms, languages, and embedded systems
-    - Effectively self-manage during independent projects, as well as collaborate as part of a productive team
-    - Design, develop, maintain a path to production for app teams, CI/CD pipelines, and implement security solutions
+    - Learned how to use AWS and Kubernetes in order to manage multiple development teams
+    - Learned how development teams interact with security limitations and DoD security requirements
+    - Explored the balance between having secure systems while maintaining a fast work environment for users
+    - Learned how to implement different firewall technology in a networked system
 
 - company:
-    name: 1-2 SBCT - US Army
-    location: Joint Base Lewis McChord, WA
+    name: Best Buy - Geek Sqaud
+    location: Bloomington, IN
   positions:
-  - designation: Combat Medic
-    start: September 2018
-    end: October 2020
+  - designation: Consultation Agent
+    start: May 2021
+    end: Present
     responsibilities:
-    - Maintain health and readiness of a battalion.
-    - Hospital/clinic experience, well-versed in handling emergency care situations.
-    - Administer various immunizations, drawing blood, and numerous lab collections based on patient care.
-    - Lead medic responsible for all new medics and training them.
-    - Train new medics coming into the clinic on rules and responsibilities.
-    - Ability to administer appropriate care in a timely manner with a calm demeanor.
-    - Carrying out physician orders with effectiveness.
+    - Diagnose technology issues through various troubleshooting activities including the use of specialty software
+    - Maintain a schedule of 20+ clients a day while balancing other tasks and goals
+    - Provided a friendly and efficient check in and check out process for clients
+
+- company:
+    name: Indiana University
+    location: Bloomington, IN
+  positions:
+  - designation: Undergraduate Researcher
+    start: August 2020
+    end: May 2021
+    responsibilities:
+    - Worked closely with Professor Apu Kapadia, Ph.D. and graduate students, in both a virtual and in person setting,
+      to research enhancing privacy in photo sharing applications
+    - Learned about security vulnerabilities and solutions for different web and mobile application
+    - Balanced a 15+ hour work week while maintaining full-time student status and a part-time job
+
+- company:
+    name: Onsite Computer
+    location: Crown Point, IN
+  positions:
+  - designation: Network Administrator
+    start: August 2018
+    end: May 2021
+    responsibilities:
+    - Managed 20+ companies networks simultaneously and integrated GoToAssist with clients to cut down on ticket
+      response time by 10-15% from previous administrators
+    - Oversaw and lead in the overhauling of systems running Windows server 2008 to transition them to Windows
+      server 2016, while migrating all server data with 0 loss and minimal downtime for clients
+    - Administrator for a Windows server environment with 50+ servers. Managed all Cisco equipment and appliances
+      as well as VMware cloud services
