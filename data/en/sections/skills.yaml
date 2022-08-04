@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Experience using Python and a working understanding of implementing python scripts"
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Fluent in Java, having used it as an Undergraduate, including Data Structures and Computer Structures"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Using both Gitlab and Github for automated deployments/Git Ops"
+  url: "https://git-scm.com/"
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Working knowledge with clouds, primarily AWS"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Fimiliar with navigating and manipulating Linux OS. Capable of writing bash/shell scripts."
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Fluent with C/C++ programming. Used primarily in Undergraduate classes, including Networks and Operating Systems"
+

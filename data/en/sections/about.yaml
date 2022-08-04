@@ -1,0 +1,29 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Undergraduate Student
+company:
+  name: Indiana University
+
+summary: 'I am a undergraduate student pursuing my bachelors degree in Computer Science with a specialization in Cyber Security. I am getting minors in Web-Desgin, Human-Centered Computing, and Informatics. I love the have new ecperiences and am always willing to learn more about anything that interests me. Currently I am looking for full-time employment after graduation in May of 2023.'
+
+socialLinks:
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tyler-gibson-b80060245/"
+
+badges:
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: green
+- type: soft-skill-indicator
+  name: Fast Learner
+  percentage: 95
+  color: sky
