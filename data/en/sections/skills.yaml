@@ -28,7 +28,7 @@ skills:
   summary: "Familiar with navigating and manipulating Linux OS. Capable of writing bash/shell scripts."
 
 - name: C++
-  logo: /images/sections/skills/c++.png
+  logo: /images/sections/skills/c.png
   summary: "Fluent with C/C++ programming. Used primarily in Undergraduate classes, including Networks and Operating Systems"
 
 
