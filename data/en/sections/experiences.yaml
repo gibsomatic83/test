@@ -6,6 +6,21 @@ section:
   showOnNavbar: true
 experiences:
 - company:
+    name: Deloitte
+    location: Chicago, IL
+  positions:
+  - designation: Solutions Engineer Analyst
+    start: September 2023
+    end: Present
+    responsibilities:
+    - Work closely with clients to understand their business requirements, technical challenges, and objectives. Collaborate with stakeholders to design tailored solutions that align with client needs
+    - Worked as a Security Analyst on multiple development teams within a project to ensure security requirements are met and deliverables are on presented on time
+    - Support the implementation of proposed solutions, overseeing the security within the deployment process for web based applications and ensuring seamless integration into the client’s existing infrastructure
+    - Work closely with other consultants, project managers, developers, and business analysts to ensure alignment between technical solutions and business goals
+    - Develop clear and comprehensive technical documentation for the solutions implemented, ensuring that all processes and configurations are properly documented for client use and future reference
+    - Provide training and support to client teams, ensuring they are equipped to manage and maintain the solutions post-deployment
+
+- company:
     name: Army Software Factory - US Army
     location: Futures Command, Austin, TX
   positions:
@@ -24,15 +39,15 @@ experiences:
     name: Best Buy - Geek Sqaud
     location: Bloomington, IN
   positions:
-  - designation: Consultation Agent
+  - designation: CIA Senior Agent (Geek Squad Team Lead)
     start: May 2021
-    end: Present
+    end: September 2023
     responsibilities:
     - Diagnose technology issues through various troubleshooting activities including the use of specialty software
     - Maintain a schedule of 20+ clients a day while balancing other tasks and goals
-    - Provided a friendly and efficient check-in and check-out process for clients
-    - Partnered with other team members to ensure consistent and accurate documentation of customer requests and repairs
-    - Gain a deeper understanding of standard end-user issues and how to solve them in a quick and efficient manner
+    - Track team progress, evaluate individual performance, and provided constructive feedback to ensure continuous improvement and goal achievement
+    - Serve as the primary point of contact between the team and upper management, ensuring information flows effectively both ways
+    - Maintain compliance with organizational policies, safety standards, and legal requirements, ensuring team members follow best practices
 
 - company:
     name: Indiana University
